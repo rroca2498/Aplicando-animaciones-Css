@@ -370,7 +370,7 @@ a{
 }
 @media (max-width:2074px){
     .formato__nosotros{
-        grid-template-rows: 180px 300px 600px 400px 550px 100px;
+        grid-template-rows: 180px 500px 300px 700px 500px 100px;
     }
 }
 
