@@ -246,7 +246,7 @@ a{
 .formato__nosotros{
     display: grid;
     grid-template-columns: 0.5fr 2fr 0.5fr;
-    grid-template-rows: 160px 300px 400px 400px 600px 100px;
+    grid-template-rows: 180px 500px 300px 700px 700px 100px;
     grid-template-areas: 
     'header header header'
     'nosotros nosotros nosotros'
